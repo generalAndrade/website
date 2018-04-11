@@ -1,0 +1,49 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-29 09:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+#. Name of the template
+msgid "Full width"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#. Name of the theme
+msgid "Interserver Platinum"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Interserver Platinum is a latest portfolio theme for various type of "
+"businesses. It is easily customizable and have various options in the admin "
+"section for the pages and the layouts. Follow these steps to manage Home "
+"page :1. Create a new page and choose the Front Page Template for this page. "
+"2. Go to  Appearancs &gt; Customize &gt; Static Front Page and set the above "
+"page as a static page for front page displays.  3. The slider on the "
+"homepage is the post slider so you have to create posts to make the slider "
+"work. The other sections of the home page can be managed from Appearancs &gt;"
+" Customize &gt; Home Page Sections."
+msgstr ""
+
+#. Author of the theme
+msgid "InterServer"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/interservernet-web-hosting"
+msgstr ""

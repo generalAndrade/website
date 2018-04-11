@@ -1,0 +1,194 @@
+ul.nx-falist {
+	height: 108px;
+	display: block;
+	overflow: auto;
+}
+/**/
+ul.nx-falist li {
+	height: 32px;
+	width: 32px;
+	border: 1px solid #999;
+	line-height: 32px;
+	margin: 1px;
+	text-align: center;
+}
+
+ul.nx-falist li.ft-select {
+	color: #fffff!important;
+	background-color: #039;
+	border: 1px solid #039;
+}
+
+ul.nx-falist li.ft-select:after,
+ul.nx-falist li.ft-select:before {
+	color: #FFF;
+	color: #fffff!important;
+}
+
+#accordion-section-basic > h3.accordion-section-title,
+#accordion-panel-rmenu > h3.accordion-section-title,
+#accordion-section-layout > h3.accordion-section-title,
+#accordion-section-social > h3.accordion-section-title,
+#accordion-section-blogpage > h3.accordion-section-title,
+#accordion-section-customheader > h3.accordion-section-title  {
+	background-color: #f7eadf;
+}
+
+#accordion-section-basic > h3.accordion-section-title:hover,
+#accordion-section-basic > h3.accordion-section-title:focus,
+#accordion-panel-rmenu > h3.accordion-section-title:hover,
+#accordion-panel-rmenu > h3.accordion-section-title:focus,
+#accordion-section-layout > h3.accordion-section-title:hover,
+#accordion-section-layout > h3.accordion-section-title:focus,
+#accordion-section-social > h3.accordion-section-title:hover,
+#accordion-section-social > h3.accordion-section-title:focus,
+#accordion-section-blogpage > h3.accordion-section-title:hover,
+#accordion-section-blogpage > h3.accordion-section-title:focus,
+#accordion-section-customheader > h3.accordion-section-title:hover,
+#accordion-section-customheader > h3.accordion-section-title:focus {
+	background-color: #333!important;
+	color: #FFF!important;	
+}
+
+#accordion-section-basic:hover > h3.accordion-section-title:after,
+#accordion-panel-rmenu:hover > h3.accordion-section-title:after,
+#accordion-section-layout:hover > h3.accordion-section-title:after,
+#accordion-section-social:hover > h3.accordion-section-title:after,
+#accordion-section-blogpage:hover > h3.accordion-section-title:after,
+#accordion-section-customheader:hover > h3.accordion-section-title:after {
+	color: #FFF!important;	
+}
+
+#accordion-section-sections > h3.accordion-section-title,
+#accordion-panel-aboutus > h3.accordion-section-title,
+#accordion-panel-services > h3.accordion-section-title,
+#accordion-panel-portfolio > h3.accordion-section-title,
+#accordion-panel-blog > h3.accordion-section-title,
+#accordion-section-video > h3.accordion-section-title,
+#accordion-panel-testimonials > h3.accordion-section-title,
+#accordion-section-calltoact > h3.accordion-section-title,
+#accordion-panel-pricing > h3.accordion-section-title,
+#accordion-panel-team > h3.accordion-section-title,
+#accordion-panel-slider > h3.accordion-section-title,
+#accordion-section-contact > h3.accordion-section-title,
+#accordion-panel-parallax1 > h3.accordion-section-title,
+#accordion-panel-custompage1 > h3.accordion-section-title,
+#accordion-panel-pie > h3.accordion-section-title  {
+	background-color: #E37721;
+	color: #FFF;	
+}
+
+#accordion-section-sections > h3.accordion-section-title:after,
+#accordion-panel-aboutus > h3.accordion-section-title:after,
+#accordion-panel-services > h3.accordion-section-title:after,
+#accordion-panel-portfolio > h3.accordion-section-title:after,
+#accordion-panel-blog > h3.accordion-section-title:after,
+#accordion-section-video > h3.accordion-section-title:after,
+#accordion-panel-testimonials > h3.accordion-section-title:after,
+#accordion-section-calltoact > h3.accordion-section-title:after,
+#accordion-panel-pricing > h3.accordion-section-title:after,
+#accordion-panel-team > h3.accordion-section-title:after,
+#accordion-panel-slider > h3.accordion-section-title:after,
+#accordion-section-contact > h3.accordion-section-title:after,
+#accordion-panel-parallax1 > h3.accordion-section-title:after,
+#accordion-panel-custompage1 > h3.accordion-section-title:after,
+#accordion-panel-pie > h3.accordion-section-title:after {
+	color: #FFF;	
+}
+
+#accordion-section-sections > h3.accordion-section-title:hover,
+#accordion-section-sections > h3.accordion-section-title:focus,
+#accordion-panel-aboutus > h3.accordion-section-title:hover,
+#accordion-panel-aboutus > h3.accordion-section-title:focus,
+#accordion-panel-services > h3.accordion-section-title:hover,
+#accordion-panel-services > h3.accordion-section-title:focus,
+#accordion-panel-portfolio > h3.accordion-section-title:hover,
+#accordion-panel-portfolio > h3.accordion-section-title:focus,
+#accordion-panel-blog > h3.accordion-section-title:hover,
+#accordion-panel-blog > h3.accordion-section-title:focus,
+#accordion-section-video > h3.accordion-section-title:hover,
+#accordion-section-video > h3.accordion-section-title:focus,
+#accordion-panel-testimonials > h3.accordion-section-title:hover,
+#accordion-section-calltoact > h3.accordion-section-title:hover,
+#accordion-panel-pricing > h3.accordion-section-title:hover,
+#accordion-panel-team > h3.accordion-section-title:hover,
+#accordion-panel-slider > h3.accordion-section-title:hover,
+#accordion-section-contact > h3.accordion-section-title:hover,
+#accordion-panel-testimonials > h3.accordion-section-title:focus,
+#accordion-section-calltoact > h3.accordion-section-title:focus,
+#accordion-panel-pricing > h3.accordion-section-title:focus,
+#accordion-panel-team > h3.accordion-section-title:focus,
+#accordion-panel-slider > h3.accordion-section-title:focus,
+#accordion-section-contact > h3.accordion-section-title:focus,
+#accordion-panel-parallax1 > h3.accordion-section-title:hover,
+#accordion-panel-custompage1 > h3.accordion-section-title:hover,
+#accordion-panel-pie > h3.accordion-section-title:hover,
+#accordion-panel-parallax1 > h3.accordion-section-title:focus,
+#accordion-panel-custompage1 > h3.accordion-section-title:focus,
+#accordion-panel-pie > h3.accordion-section-title:focus {
+	background-color: #333!important;
+	color: #FFF!important;	
+}
+
+#accordion-section-sections:hover > h3.accordion-section-title:after,
+#accordion-panel-aboutus:hover > h3.accordion-section-title:after,
+#accordion-panel-services:hover > h3.accordion-section-title:after,
+#accordion-panel-portfolio:hover > h3.accordion-section-title:after,
+#accordion-panel-blog:hover > h3.accordion-section-title:after,
+#accordion-section-video:hover > h3.accordion-section-title:after,
+#accordion-panel-testimonials:hover > h3.accordion-section-title:after,
+#accordion-section-calltoact:hover > h3.accordion-section-title:after,
+#accordion-panel-pricing:hover > h3.accordion-section-title:after,
+#accordion-panel-team:hover > h3.accordion-section-title:after,
+#accordion-panel-slider:hover > h3.accordion-section-title:after,
+#accordion-section-contact:hover > h3.accordion-section-title:after,
+#accordion-panel-parallax1 > h3.accordion-section-title:after,
+#accordion-panel-custompage1 > h3.accordion-section-title:after,
+#accordion-panel-pie > h3.accordion-section-title:after {
+	color: #FFF!important;	
+}
+
+#accordion-section-sections.open > h3.accordion-section-title,
+#accordion-panel-aboutus.open > h3.accordion-section-title,
+#accordion-panel-services.open > h3.accordion-section-title,
+#accordion-panel-portfolio.open > h3.accordion-section-title,
+#accordion-panel-blog.open > h3.accordion-section-title,
+#accordion-section-video.open > h3.accordion-section-title {
+	background-color: #333!important;
+	color: #FFF!important;	
+}
+
+#accordion-section-sections.open:hover > h3.accordion-section-title:after,
+#accordion-panel-aboutus.open:hover > h3.accordion-section-title:after,
+#accordion-panel-services.open:hover > h3.accordion-section-title:after,
+#accordion-panel-portfolio.open:hover > h3.accordion-section-title:after,
+#accordion-panel-blog.open:hover > h3.accordion-section-title:after,
+#accordion-section-video.open:hover > h3.accordion-section-title:after {
+	color: #FFF!important;	
+}
+
+
+body .customize-control-kirki.customize-control-kirki-generic > input,
+body .customize-control-kirki.customize-control-kirki-generic > textarea {
+	background-color: $eee;
+	border: 1px solid #bebebe;
+}
+
+#customize-controls input,
+#customize-controls textarea,
+#customize-controls .selectize-input {
+	background-color: $eee;	
+	border: 1px solid #bebebe;	
+}
+
+#customize-controls .customize-control-kirki-radio-buttonset .buttonset .switch-label {
+	border: 1px solid #ccc;
+}
+
+.customizer-shortcut{
+	display: block;
+}
+
+.wp-customizer .customize-control-kirki-editor .customize-control-content .button-primary.toggle-editor {
+	width: 100%;
+}

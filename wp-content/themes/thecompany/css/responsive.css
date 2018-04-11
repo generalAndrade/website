@@ -1,0 +1,46 @@
+@media (max-width: 991px) {
+  .logo-menu .main-menu .navbar-nav > li > a {
+    padding: 10px 14px; }
+
+  .carousel-caption {
+    padding-bottom: 50px; }
+
+  .carousel-caption h1 {
+    font-size: 20px; }
+
+  .carousel-caption p {
+    line-height: 22px;
+    margin-top: 5px; }
+
+  .carousel-caption .btn-theme {
+    margin-top: 20px;
+    padding: 6px 12px; }
+
+  .pricing-table .info {
+    padding-bottom: 0; }
+
+  .pricing-table-container .outer {
+    margin-top: 60px; } }
+@media (max-width: 767px) {
+  .navbar-toggle {
+    margin-top: -45px; }
+
+  .logo-menu .main-menu .navbar {
+    min-height: 0; }
+
+  .logo-menu .main-menu .navbar-nav > li > a {
+    border-bottom: 1px solid #f0f0f0; }
+
+  footer .footer .newsletter h1 {
+    text-align: center; } }
+@media (max-width: 300px) {
+  .carousel-caption {
+    display: none !important; } }
+@media (max-height: 370px) {
+  .logo-menu {
+    padding: 0; }
+
+  .carousel-caption {
+    padding-bottom: 120px; } }
+
+/*# sourceMappingURL=responsive.css.map */

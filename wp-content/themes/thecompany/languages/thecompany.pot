@@ -1,0 +1,638 @@
+# Copyright (C) 2016 Oceanwebthemes   
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: thecompany 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/thecompany\n"
+"POT-Creation-Date: 2016-09-02 21:43:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+#@ thecompany
+msgid "404 ERROR"
+msgstr ""
+
+#: 404.php:40
+#@ thecompany
+msgid "inner page"
+msgstr ""
+
+#: 404.php:60
+#@ thecompany
+msgid "Oops!"
+msgstr ""
+
+#: 404.php:61
+#@ thecompany
+msgid "We can not seem to find the page you are looking for."
+msgstr ""
+
+#: 404.php:62
+#@ thecompany
+msgid "Error code: 404"
+msgstr ""
+
+#: 404.php:63
+#@ thecompany
+msgid "Here are some helpful links instead:"
+msgstr ""
+
+#: 404.php:65
+#@ thecompany
+msgid "Home"
+msgstr ""
+
+#: 404.php:68
+#@ thecompany
+msgid "404"
+msgstr ""
+
+
+#: comments.php:33
+#, php-format
+#@ thecompany
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+#@ thecompany
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+#@ thecompany
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57
+#@ thecompany
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+#@ thecompany
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:86
+#@ thecompany
+msgid "Leave your message"
+msgstr ""
+
+#: comments.php:91
+#@ thecompany
+msgid "Name"
+msgstr ""
+
+#: comments.php:96
+#@ thecompany
+msgid "Email"
+msgstr ""
+
+#: comments.php:101
+#@ thecompany
+msgid "Url"
+msgstr ""
+
+#: functions.php:47
+#@ thecompany
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+#@ thecompany
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:110
+#@ thecompany
+msgid "Submit"
+msgstr ""
+
+
+
+#: functions.php:172
+#@ thecompany
+msgid "Search results for "
+msgstr ""
+
+#: functions.php:230
+#@ thecompany
+msgid "Post Tagged"
+msgstr ""
+
+#: functions.php:235
+#@ thecompany
+msgid "Articles posted by"
+msgstr ""
+
+#: functions.php:238
+#@ thecompany
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:243
+#@ thecompany
+msgid "Page"
+msgstr ""
+
+#: functions.php:261
+#@ thecompany
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:263
+#@ thecompany
+msgid "Add widgets here."
+msgstr ""
+
+
+#: header.php:52
+#@ thecompany
+msgid "Toggle navigation"
+msgstr ""
+
+#: search.php:17
+#@ thecompany
+msgid "Search Results for:"
+msgstr ""
+
+
+
+#:searchform.php:1
+#@ thecompany
+msgid "Search"
+msgstr ""
+
+#:searchform.php:4
+#@ thecompany
+msgid "Search for"
+msgstr ""
+
+
+
+#: inc/class.php:44
+#@ thecompany
+msgid "Select"
+msgstr ""
+
+
+
+#: inc/wp_bootstrap_navwalker.php:170
+#@ thecompany
+msgid "Add a menu"
+msgstr ""
+
+
+
+#: template-parts/content-none.php:19
+#@ thecompany
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#@ thecompany
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-page.php:20
+#: template-parts/content.php:38
+#@ thecompany
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:24
+#: template-parts/content-single.php:21
+#: template-parts/content-single.php:108
+#: template-parts/content.php:23
+#@ thecompany
+msgid "0 comment"
+msgstr ""
+
+#: template-parts/content-search.php:24
+#: template-parts/content-single.php:21
+#: template-parts/content-single.php:108
+#: template-parts/content.php:23
+#@ thecompany
+msgid "1 comment"
+msgstr ""
+
+#: template-parts/content-search.php:24
+#: template-parts/content-single.php:21
+#: template-parts/content-single.php:108
+#: template-parts/content.php:23
+#@ thecompany
+msgid "% comment"
+msgstr ""
+
+#: template-parts/content-single.php:98
+#@ thecompany
+msgid "Releated Posts"
+msgstr ""
+
+#: template-parts/content-single.php:122
+#@ thecompany
+msgid "Keep reading"
+msgstr ""
+
+#: inc/customizer.php:40
+#@ thecompany
+msgid "TheCompany Theme Options"
+msgstr ""
+
+#: inc/customizer.php:41
+#@ thecompany
+msgid "TheCompany Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:6
+#@ thecompany
+msgid "Slider Section:"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:18
+#@ thecompany
+msgid "Enable/Disable Home Slider"
+msgstr ""
+
+
+#: inc/customizer/customizer-slider.php:23
+#: inc/customizer/customizer-offer.php:24
+#: inc/customizer/customizer-offer.php:26
+#: inc/customizer/customizer-whychooseus.php:24
+#@ thecompany
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:22
+#: inc/customizer/customizer-offer.php:23
+#: inc/customizer/customizer-search.php:25
+#: inc/customizer/customizer-whychooseus.php:23
+#@ thecompany
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:37
+#@ thecompany
+msgid "Select Slider Text Position"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:43
+#@ thecompany
+msgid "left"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:44
+#@ thecompany
+msgid "right"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:45
+#@ thecompany
+msgid "center"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:56
+#@ thecompany
+msgid "Select Page For Slider 1"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:71
+#@ thecompany
+msgid "Select Page For Slider 2"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:86
+#@ thecompany
+msgid "Select Page For Slider 3"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:102
+#@ thecompany
+msgid "Category if no page is selected"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:119
+#@ thecompany
+msgid "No Of Posts To Show On Home Slider"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:145
+#@ thecompany
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/customizer-search.php:19
+#@ thecompany
+msgid "Check to disable Search"
+msgstr ""
+
+#: inc/customizer/customizer-search.php:40
+#@ thecompany
+msgid "Search Title"
+msgstr ""
+
+#: inc/customizer/customizer-search.php:49
+#@ thecompany
+msgid "Enter the keyword"
+msgstr ""
+
+#: inc/customizer/customizer-search.php:55
+#@ thecompany
+msgid "Search Placeholder"
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:7
+#@ thecompany
+msgid "Offer Section"
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:19
+#@ thecompany
+msgid "Enable/Disable Offer Section"
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:33
+#@ thecompany
+msgid "What We Offer "
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:38
+#@ thecompany
+msgid "Offer Title"
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:52
+#@ thecompany
+msgid "Select Page For Offer 1"
+msgstr ""
+
+#: inc/customizer/customizer-offer.php:67
+#@ thecompany
+msgid "Select Page For Offer 2"
+msgstr ""
+
+
+#: inc/customizer/customizer-offer.php:82
+#@ thecompany
+msgid "Select Page For Offer 3"
+msgstr ""
+
+
+#: inc/customizer/customizer-offer.php:96
+#@ thecompany
+msgid "Select Page For Offer 4"
+msgstr ""
+
+
+#: inc/customizer/customizer-offer.php:111
+#@ thecompany
+msgid "Choose Category If No Page Is Selected"
+msgstr ""
+
+
+#: inc/customizer/customizer-offer.php:128
+#@ thecompany
+msgid "No Of Posts To Show On What We Offer"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:7
+#@ thecompany
+msgid "Why Choose Us Section"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:19
+#@ thecompany
+msgid "Enable/Disable Why Choose Us Section"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:33
+#@ thecompany
+msgid "Why Choose Us"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:38
+#@ thecompany
+msgid "Why Choose Us Title"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:54
+#@ thecompany
+msgid "Icon For Why Choose Us 1"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:69
+#@ thecompany
+msgid "Icon For Why Choose Us 2"
+msgstr ""
+
+
+#: inc/customizer/customizer-whychooseus.php:82
+#@ thecompany
+msgid "Icon For Why Choose Us 3"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:96
+#@ thecompany
+msgid "Icon For Why Choose Us 4"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:108
+#@ thecompany
+msgid "Select Page For Why Choose Us 1"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:123
+#@ thecompany
+msgid "Select Page For Why Choose Us 2"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:138
+#@ thecompany
+msgid "Select Page For Why Choose Us 3"
+msgstr ""
+
+#: inc/customizer/customizer-whychooseus.php:152
+#@ thecompany
+msgid "Select Page For Why Choose Us 4"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:7
+#@ thecompany
+msgid "Sidebar"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:17
+#@ thecompany
+msgid "Archive Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:23
+#: inc/customizer/customizer-other.php:43
+#: inc/customizer/customizer-other.php:61
+#: inc/customizer/customizer-other.php:79
+#: inc/customizer/customizer-other.php:97
+#: inc/customizer/customizer-other.php:15
+#@ thecompany
+msgid "none"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:24
+#: inc/customizer/customizer-other.php:44
+#: inc/customizer/customizer-other.php:62
+#: inc/customizer/customizer-other.php:80
+#: inc/customizer/customizer-other.php:98
+#: inc/customizer/customizer-other.php:16
+#@ thecompany
+msgid "left"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:25
+#: inc/customizer/customizer-other.php:45
+#: inc/customizer/customizer-other.php:63
+#: inc/customizer/customizer-other.php:81
+#: inc/customizer/customizer-other.php:99
+#: inc/customizer/customizer-other.php:17
+#@ thecompany
+msgid "right"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:37
+#@ thecompany
+msgid "Category Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:55
+#@ thecompany
+msgid "404 Error Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:73
+#@ thecompany
+msgid "Page Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:91
+#@ thecompany
+msgid "Search Page Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:109
+#@ thecompany
+msgid "Single Post Sidebar position"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:122
+#: inc/customizer/customizer-other.php:126
+#@ thecompany
+msgid "Other Options"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:137
+#@ thecompany
+msgid "Excerpt length. Default is 40 words"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:145
+#@ thecompany
+msgid "Excerpt Length (words)"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:158
+#@ thecompany
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:173
+#@ thecompany
+msgid "Write Copyright Text"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:181
+#@ thecompany
+msgid "Paste Your Social Media Links"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:185
+#@ thecompany
+msgid "Footer Social Media Options"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:200
+#@ thecompany
+msgid "Facebook"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:217
+#@ thecompany
+msgid "Twitter"
+msgstr ""
+
+
+#: inc/customizer/customizer-other.php:235
+#@ thecompany
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/customizer-other.php:253
+#@ thecompany
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/customizer-other.php:270
+#@ thecompany
+msgid "Youtube"
+msgstr ""
+
+
+
+#: inc/customizer/customizer-other.php:287
+#@ thecompany
+msgid "Skype"
+msgstr ""
+
+
+
+#: inc/customizer/customizer-other.php:305
+#@ thecompany
+msgid "Pinterest"
+msgstr ""
+
+
+
+#: inc/customizer/customizer-other.php:323
+#@ thecompany
+msgid "Instagram"
+msgstr ""
